@@ -63,7 +63,7 @@ Make sure you have the following installed on your machine:
 
 1.  **Clone the repository:**
     ```sh
-    https://github.com/Ramyasree8589/Pet-adoption-and-rescue-management-portal.git
+    git clone https://github.com/Ramyasree8589/Pet-adoption-and-rescue-management-portal.git
     ```
 
 2.  **Backend Setup:**
